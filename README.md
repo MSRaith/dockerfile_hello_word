@@ -21,6 +21,7 @@ CMD ["bash", "app/1.sh"]
 * ### 1.sh
 ---
 #!/bin/bash
+
 echo "Hello Netology"
 
 ---
