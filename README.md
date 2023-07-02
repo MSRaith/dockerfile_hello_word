@@ -28,5 +28,6 @@ echo "Hello Netology"
 
 * ### log
 ---
+![image](https://github.com/MSRaith/dockerfile_hello_word/assets/89347252/2766e43d-2dc5-499a-b54f-5be61c87a982)
 
 ---
